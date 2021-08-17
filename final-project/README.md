@@ -12,4 +12,10 @@
 - найти важные вершины и рёбра;
 - проанализировать структуру графа в целом.
 
+![image](https://user-images.githubusercontent.com/62756126/129652730-93ac4db7-005b-4b65-925f-fd9428ffd7aa.png)
+
+
 3) Бонус: научиться рекомендовать друзей друг другу.
+
+![image](https://user-images.githubusercontent.com/62756126/129652954-3bbcf86d-08f7-4669-9556-4b644533e09c.png)
+
