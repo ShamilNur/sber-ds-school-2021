@@ -1,4 +1,6 @@
 # Sber-ds-school
+![image](https://user-images.githubusercontent.com/62756126/129652629-db700fc0-c966-4aeb-a956-cabba3bf522b.png)
+
 
 Sber "School IT" Data Science course
 
