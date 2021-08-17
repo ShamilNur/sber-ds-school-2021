@@ -1,6 +1,6 @@
 **Ссылка на Google Colab**
 
-Код можно открыть здесь: (vk_ego_network.ipynb)[https://colab.research.google.com/drive/1b1fsw2sJkU9NuYosegpFUxekZx6vZJ4E?usp=sharing]
+Код можно открыть здесь: [vk_ego_network.ipynb](https://colab.research.google.com/drive/1b1fsw2sJkU9NuYosegpFUxekZx6vZJ4E?usp=sharing)
 
 # **Описание финального проекта**
 
