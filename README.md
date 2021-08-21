@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62756126/129652629-db700fc0-c966-4aeb-a956-cabba3bf522b.png" alt="drawing" width="200"/>
+<a href="https://sberitschool.ru/"><img src="https://user-images.githubusercontent.com/62756126/129652629-db700fc0-c966-4aeb-a956-cabba3bf522b.png" alt="drawing" width="200"/></a>
 
 Sber "School IT" Data Science course
 
